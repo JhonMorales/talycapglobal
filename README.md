@@ -7,7 +7,7 @@ Preguntas teóricas:
 1. ¿Qué es PL/SQL y cuál es su propósito en el desarrollo de aplicaciones?
 **Respuesta = Facilitar la interaccion con la base de datos y permite gran manejo de logica de negocio y procesamiento de los datos (Triggers, Procedimientos, Procedures, Transactions)**
 2. Explique la diferencia entre un procedimiento almacenado y una función en PL/SQL.
-**Respeusta = Una función retorna un valor, un procedimiento no, la función maneja excepciones y en caso de error debemos devolver un valor**
+**Respuesta = Una función retorna un valor, un procedimiento no, la función maneja excepciones y en caso de error debemos devolver un valor**
 3. ¿Qué es una excepción en PL/SQL y cómo se manejan?
 **Respuesta = Pueden ser errores internos, errores de usuario o condiciones no controladas, estas interrumpen el flujo normal. Se pueden manejar con "Exception"**
 ```sql
